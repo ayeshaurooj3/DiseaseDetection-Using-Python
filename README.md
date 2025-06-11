@@ -35,7 +35,7 @@ A comprehensive web-based AI application for detecting critical human diseases â
 
 **Machine Learning:**
 - TensorFlow / Keras / PyTorch
-- CNN, MobileNetV2, VGG16, DenseNet121, ResNet
+- CNN
 - OpenCV, NumPy, Pandas, Scikit-learn
 
 **Deployment:**
