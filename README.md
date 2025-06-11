@@ -40,7 +40,6 @@ A comprehensive web-based AI application for detecting critical human diseases �
 
 **Deployment:**
 - Flask Localhost (Development)
-- Optional: Render, Heroku, Docker
 
 ## 🗂️ Project Structure
 human-disease-detection/
