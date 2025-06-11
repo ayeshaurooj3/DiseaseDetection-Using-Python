@@ -47,6 +47,7 @@ human-disease-detection/
 ├── templates/ # HTML pages (index, result, upload, etc.)
 ├── models/ # Trained model files (.h5 or .pt)
 ├── app.py # Main Flask server
+├── library_command.txt(libraries that are required to code)
 
 ## 🧪 Datasets Used
 
